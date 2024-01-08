@@ -1,5 +1,4 @@
 <h1 align="Left">Hey👋, I'm Rohit</h1>
-<img align="Right" alt = "Printing", width ="200" src ="https://2018media.idtech.com/2019-07/3d-printer-gif.gif?ad45c453e0"
 
 **About Me:**<br>
 🤖 Mechatronic Engineer in the making 🎓  
@@ -8,6 +7,9 @@
 ⛸️ Ice skating Noob 
 🚁 FPV Captain  
 🤖 3D Printing Maestro 💡  
+
+<img align="right" alt="Printing" width="200" src="https://2018media.idtech.com/2019-07/3d-printer-gif.gif?ad45c453e0">
+
 
 **Current Status:**<br>
 📚 Master's in Mechatronics - Nearly there! 🎉  
