@@ -31,7 +31,7 @@ Join me on this journey of engineering, hobbies, and close encounters of the dro
 </td>
 <td style="padding-top:0px;">
 
-<img src="https://2018media.idtech.com/2019-07/3d-printer-gif.gif?ad45c453e0" alt="3D Printer" style="margin-top:-10px;"/>
+<img src="https://2018media.idtech.com/2019-07/3d-printer-gif.gif?ad45c453e0" alt="3D Printer" style="margin-top:-50px;"/>
 
 </td>
 </tr>
