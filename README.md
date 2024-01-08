@@ -30,7 +30,6 @@ Join me on this journey of engineering, hobbies, and close encounters of the dro
 
 </td>
 <td>
-
 ![3D Printer](https://2018media.idtech.com/2019-07/3d-printer-gif.gif?ad45c453e0)
 
 </td>
