@@ -5,24 +5,17 @@
 # Hey👋, I'm Rohit
 
 ### About Me:
-🤖 Mechatronic Engineer in the making 🎓  
-🎱 Billiards enthusiast (cueing up some fun)  
-🏸 Badminton rookie (I aim for the stars, sometimes hit the ceiling)  
-⛸️ Ice skating Noob 🏂 FPV Captain  
+🤖 Mechanical Engineer🎓  
+🎱 Billiards Noob (cueing up some fun)  
 🤖 3D Printing Maestro 💡  
 
 ### Current Status:
-📚 Master's in Mechatronics - Nearly there! 🎉  
-🛞 Working on 2-Axis Reaction Wheel
+🛞 Working on Unicycle Reaction Wheel
 
 ### Favorite Quote:
 "Science is about knowing, Engineering is about doing"  
 
 ### Follow for:
-🤖 Mechatronic marvels  
-🎱 Billiards banter  
-🏸 Badminton blunders (and the occasional ace)  
-⛸️ Ice skating thrills  
 🚁 Drone diaries  
 🛠️ 3D printing wonders  
 
